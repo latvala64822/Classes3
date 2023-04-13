@@ -1,0 +1,4 @@
+﻿  LatvalaJClasses3.cpp
+C:\Users\latvala64822\source\repos\Classes3\Classes3\Classes3\LatvalaJPersonalLibraryV4.h(23,12): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+C:\Users\latvala64822\source\repos\Classes3\Classes3\Classes3\LatvalaJPersonalLibraryV4.h(180,49): warning C4267: 'initializing': conversion from 'size_t' to 'unsigned short', possible loss of data
+  Classes3.vcxproj -> C:\Users\latvala64822\source\repos\Classes3\Classes3\x64\Debug\Classes3.exe
